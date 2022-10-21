@@ -2,19 +2,6 @@
 //	http://www.java-gaming.org/topics/basic-game/21919/view.html
 //https://gamedev.stackexchange.com/questions/53705/how-can-i-make-a-sprite-sheet-based-animation-system
 
-/*
-
-
-
-
-
-	HOLY SHIT SHUT THE FUCK UP BITCH!! STOP BEING LITTLE BITCH BOY AND JUST DO IT MY GOD! Dont give a fuck what your head says. do it. bitch. 
-
-
-
-
-
-*/
 
 import javax.swing.JFrame;
 import javax.swing.JPanel;
